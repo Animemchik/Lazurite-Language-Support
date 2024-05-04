@@ -1,4 +1,5 @@
 # Lazurite Language Support Plugin
+### [README russian version](https://github.com/Animemchik/Lazurite-Language-Support/blob/main/README_RU.md)
 
 `Made for Intellij IDEA.`
 
